@@ -1,0 +1,21 @@
+
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Popins", sans-serif;
+    background-image: linear-gradient(90deg, #410076, #8820dd);
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+  }
+  .search-container {
+      margin-top: 100px;
+  }
+ 
+
+
